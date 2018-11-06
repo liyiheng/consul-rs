@@ -4,6 +4,11 @@ A consul client lib in Rust.(WIP)
 
 ## Usage
 
+```toml
+[dependencies]
+consul-rs = {git = "https://github.com/XanthusL/consul-rs", branch = "master"}
+```
+
 ```rust
 extern crate consul_rs;
 
