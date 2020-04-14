@@ -6,7 +6,7 @@ A consul client lib in Rust.(WIP)
 
 ```toml
 [dependencies]
-consul-rs = {git = "https://github.com/XanthusL/consul-rs", branch = "master"}
+consul-rs = {git = "https://github.com/liyiheng/consul-rs", branch = "master"}
 ```
 
 ```rust
